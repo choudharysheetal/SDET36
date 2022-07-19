@@ -21,6 +21,7 @@ public class Practiceclass2 {
 		//system.out.println("hello");
 		System.out.println("bye");
 		System.out.println("bye....bye");
+		System.out.println("bye.....ever");
 	}
 	
 
