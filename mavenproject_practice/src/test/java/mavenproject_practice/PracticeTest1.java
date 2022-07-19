@@ -17,6 +17,7 @@ public class PracticeTest1 {
 	{
 		Reporter.log("Customer Module", true);
 		System.out.println("hi");
+		System.out.println("hello");
 	}
 	
 
