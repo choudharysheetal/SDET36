@@ -16,6 +16,7 @@ public class Practice1Test {
 	public void Practice2Test()
 	{
 		System.out.println("TYSS 2......> Test 2");
+		System.out.println("hi");
 	}
 	
 	@Test
