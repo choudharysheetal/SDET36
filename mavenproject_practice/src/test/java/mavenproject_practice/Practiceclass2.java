@@ -19,6 +19,8 @@ public class Practiceclass2 {
 		Reporter.log("Customer Module", true);
 		System.out.println("hi");
 		//system.out.println("hello");
+		System.out.println("bye");
+		System.out.println("bye....bye");
 	}
 	
 
