@@ -14,6 +14,8 @@ public void PracticeTest()
 		Reporter.log("Automation", true);
 		Reporter.log("Script", false);
 		System.out.println("RunScript");
+		System.out.println("Hi..");
+		
 	}
 
 
